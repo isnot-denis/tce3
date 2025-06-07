@@ -1,0 +1,1531 @@
+[
+  {
+    "id": 1,
+    "text": "Câmpul electrostatic în vid este descris prin:",
+    "options": [
+      "Intensitatea câmpului electric",
+      "Inducţia electrică",
+      "Inducţia magnetică",
+      "Forţa cu care acţionează câmpul"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "text": "Care dintre relaţiile următoare este adevărată:",
+    "options": [
+      "Inducţia electrică = permitivitatea x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / permitivitate",
+      "Inducţia electrică = sarcina x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / sarcina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 3,
+    "text": "Cantitatea de electricitate cu care se încarcă o baterie de n condensatoare montate în serie, fiecare de capacitate C, este:",
+    "options": [
+      "Aceeaşi cu care se încarcă fiecare element component",
+      "Egală cu suma sarcinilor fiecărui condensator în parte",
+      "Egală cu de două ori cantitatea de electricitate cu care se încarcă fiecare condensator",
+      "Nu se poate preciza, aceasta depinzând de sursa de încărcare"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "text": "Diferenţa de potenţial la bornele a n baterii de condensatoare montate în serie este egală cu:",
+    "options": [
+      "Suma diferenţelor de potenţial la bornele fiecărui condensator",
+      "Diferenţa de potenţial la bornele fiecărui condensator în parte",
+      "Diferenţa de potenţial a unui condensator împărţită la n",
+      "Diferenţa de potenţial a unui condensator înmulţită cu (n-1)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 5,
+    "text": "Valoarea conductivităţii electrice este în ordine crescătoare la următoarele materiale:",
+    "options": [
+      "Aluminiu, argint, cupru",
+      "Argint, cupru, aluminiu",
+      "Aluminiu, cupru, argint",
+      "Cupru, argint, aluminiu"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 6,
+    "text": "Tesla este unitatea de măsură a:",
+    "options": [
+      "Inducţiei magnetice",
+      "Fluxului magnetic",
+      "Intensităţii câmpului magnetic",
+      "Permeabilitaţii magnetice"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 7,
+    "text": "Capacitatea echivalentă a 2 condensatoare, fiecare având capacitatea C, montate în serie este egală cu:",
+    "options": [
+      "2C",
+      "C/2",
+      "C",
+      "C x C"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 8,
+    "text": "Inductanţa proprie a unei bobine prin care trece un curent de intensitate i este raportul între……. şi acest curent:",
+    "options": [
+      "Fluxul propriu al bobinei",
+      "Inducţia magnetică",
+      "Forţa electromotoare",
+      "Intensitatea câmpului magnetic"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 9,
+    "text": "Permeabilitatea este o mărime:",
+    "options": [
+      "Magnetoelectrică",
+      "Electrică",
+      "Electromecanică",
+      "Magnetică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 10,
+    "text": "Un conductor parcurs de curent având sensul spre dreapta în planul tablei se află într-un câmp magnetic orientat în sus. Forţa acţionează:",
+    "options": [
+      "Perpendicular pe planul tablei cu sensul înăuntru",
+      "La un unghi de 45°",
+      "Perpendicular cu sensul în afara tablei",
+      "La 90° față de câmp și curent"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 11,
+    "text": "Forţa electrodinamică între două fire paralele este:",
+    "options": [
+      "Direct proporţională cu distanţa",
+      "Proporţională cu pătratul distanţei",
+      "Invers proporţională cu distanţa",
+      "Invers proporţională cu pătratul distanţei"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 12,
+    "text": "Forţa dintre două conductoare cu curent se numeşte:",
+    "options": [
+      "Electrocinetică",
+      "Electrostatică",
+      "Magnetomotoare",
+      "Electrodinamică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 13,
+    "text": "Legea lui Coulomb exprimă:",
+    "options": [
+      "Diferenţa de potenţial",
+      "Fluxul electric",
+      "Forţa între sarcini electrice",
+      "Lucrul mecanic în câmp"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 14,
+    "text": "Inversa rezistenţei echivalente a n rezistoare în paralel este:",
+    "options": [
+      "Suma rezistenţelor",
+      "Suma inverselor rezistenţelor",
+      "Suma pătratelor rezistenţelor",
+      "Suma pătratelor inverselor"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 15,
+    "text": "Unitatea de măsură a sarcinii electrice este:",
+    "options": [
+      "Volt/metru",
+      "Coulomb",
+      "Farad",
+      "Amper"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 16,
+    "text": "Un corp conductor se încarcă permanent prin:",
+    "options": [
+      "Deplasare în câmp",
+      "Inducţie electrostatică",
+      "Atingere cu alt corp",
+      "Frecare"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 17,
+    "text": "Sarcinile de semn contrar se:",
+    "options": [
+      "Atrag proporţional cu distanţa",
+      "Resping proporţional",
+      "Atrag invers proporţional cu pătratul distanţei",
+      "Resping invers proporţional"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 18,
+    "text": "Energia înmagazinată în câmp electrostatic este:",
+    "options": [
+      "1/2 qV",
+      "qV",
+      "2qV",
+      "qV²"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 19,
+    "text": "Rezistenţa echivalentă a trei rezistoare de 3 ohmi în paralel este:",
+    "options": [
+      "3 ohmi",
+      "1 ohm",
+      "9 ohmi",
+      "27 ohmi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 20,
+    "text": "Electroscopul determină:",
+    "options": [
+      "Potenţialul",
+      "Lucrul mecanic",
+      "Semnul sarcinii",
+      "Mărimea sarcinii"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 21,
+    "text": "Câmpul electrostatic în vid este descris prin:",
+    "options": [
+      "Intensitatea câmpului electric",
+      "Inducţia electrică",
+      "Inducţia magnetică",
+      "Forţa cu care acţionează câmpul"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 22,
+    "text": "Care dintre relaţiile următoare este adevărată:",
+    "options": [
+      "Inducţia electrică = permitivitatea x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / permitivitate",
+      "Inducţia electrică = sarcina x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / sarcina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 23,
+    "text": "Cantitatea de electricitate cu care se încarcă o baterie de n condensatoare montate în serie, fiecare de capacitate C, este:",
+    "options": [
+      "Aceeaşi cu care se încarcă fiecare element component",
+      "Egală cu suma sarcinilor fiecărui condensator în parte",
+      "Egală cu de două ori cantitatea de electricitate cu care se încarcă fiecare condensator",
+      "Nu se poate preciza, aceasta depinzând de sursa de încărcare"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 24,
+    "text": "Diferenţa de potenţial la bornele a n baterii de condensatoare montate în serie este egală cu:",
+    "options": [
+      "Suma diferenţelor de potenţial la bornele fiecărui condensator",
+      "Diferenţa de potenţial la bornele fiecărui condensator în parte",
+      "Diferenţa de potenţial a unui condensator împărţită la n",
+      "Diferenţa de potenţial a unui condensator înmulţită cu (n-1)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 25,
+    "text": "Valoarea conductivităţii electrice este în ordine crescătoare la următoarele materiale:",
+    "options": [
+      "Aluminiu, argint, cupru",
+      "Argint, cupru, aluminiu",
+      "Aluminiu, cupru, argint",
+      "Cupru, argint, aluminiu"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 26,
+    "text": "Tesla este unitatea de măsură a:",
+    "options": [
+      "Inducţiei magnetice",
+      "Fluxului magnetic",
+      "Intensităţii câmpului magnetic",
+      "Permeabilitaţii magnetice"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 27,
+    "text": "Capacitatea echivalentă a 2 condensatoare, fiecare având capacitatea C, montate în serie este egală cu:",
+    "options": [
+      "2C",
+      "C/2",
+      "C",
+      "C x C"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 28,
+    "text": "Inductanţa proprie a unei bobine prin care trece un curent de intensitate i este raportul între……. şi acest curent:",
+    "options": [
+      "Fluxul propriu al bobinei",
+      "Inducţia magnetică",
+      "Forţa electromotoare",
+      "Intensitatea câmpului magnetic"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 29,
+    "text": "Permeabilitatea este o mărime:",
+    "options": [
+      "Magnetoelectrică",
+      "Electrică",
+      "Electromecanică",
+      "Magnetică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 30,
+    "text": "Un conductor parcurs de curent având sensul spre dreapta în planul tablei se află într-un câmp magnetic orientat în sus. Forţa acţionează:",
+    "options": [
+      "Perpendicular pe planul tablei cu sensul înăuntru",
+      "La un unghi de 45°",
+      "Perpendicular cu sensul în afara tablei",
+      "La 90° față de câmp și curent"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 31,
+    "text": "Forţa electrodinamică între două fire paralele este:",
+    "options": [
+      "Direct proporţională cu distanţa",
+      "Proporţională cu pătratul distanţei",
+      "Invers proporţională cu distanţa",
+      "Invers proporţională cu pătratul distanţei"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 32,
+    "text": "Forţa dintre două conductoare cu curent se numeşte:",
+    "options": [
+      "Electrocinetică",
+      "Electrostatică",
+      "Magnetomotoare",
+      "Electrodinamică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 33,
+    "text": "Legea lui Coulomb exprimă:",
+    "options": [
+      "Diferenţa de potenţial",
+      "Fluxul electric",
+      "Forţa între sarcini electrice",
+      "Lucrul mecanic în câmp"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 34,
+    "text": "Inversa rezistenţei echivalente a n rezistoare în paralel este:",
+    "options": [
+      "Suma rezistenţelor",
+      "Suma inverselor rezistenţelor",
+      "Suma pătratelor rezistenţelor",
+      "Suma pătratelor inverselor"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 35,
+    "text": "Unitatea de măsură a sarcinii electrice este:",
+    "options": [
+      "Volt/metru",
+      "Coulomb",
+      "Farad",
+      "Amper"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 36,
+    "text": "Un corp conductor se încarcă permanent prin:",
+    "options": [
+      "Deplasare în câmp",
+      "Inducţie electrostatică",
+      "Atingere cu alt corp",
+      "Frecare"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 37,
+    "text": "Sarcinile de semn contrar se:",
+    "options": [
+      "Atrag proporţional cu distanţa",
+      "Resping proporţional",
+      "Atrag invers proporţional cu pătratul distanţei",
+      "Resping invers proporţional"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 38,
+    "text": "Energia înmagazinată în câmp electrostatic este:",
+    "options": [
+      "1/2 qV",
+      "qV",
+      "2qV",
+      "qV²"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 39,
+    "text": "Rezistenţa echivalentă a trei rezistoare de 3 ohmi în paralel este:",
+    "options": [
+      "3 ohmi",
+      "1 ohm",
+      "9 ohmi",
+      "27 ohmi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 40,
+    "text": "Electroscopul determină:",
+    "options": [
+      "Potenţialul",
+      "Lucrul mecanic",
+      "Semnul sarcinii",
+      "Mărimea sarcinii"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 41,
+    "text": "Câmpul electrostatic în vid este descris prin:",
+    "options": [
+      "Intensitatea câmpului electric",
+      "Inducţia electrică",
+      "Inducţia magnetică",
+      "Forţa cu care acţionează câmpul"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 42,
+    "text": "Care dintre relaţiile următoare este adevărată:",
+    "options": [
+      "Inducţia electrică = permitivitatea x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / permitivitate",
+      "Inducţia electrică = sarcina x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / sarcina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 43,
+    "text": "Cantitatea de electricitate cu care se încarcă o baterie de n condensatoare montate în serie, fiecare de capacitate C, este:",
+    "options": [
+      "Aceeaşi cu care se încarcă fiecare element component",
+      "Egală cu suma sarcinilor fiecărui condensator în parte",
+      "Egală cu de două ori cantitatea de electricitate cu care se încarcă fiecare condensator",
+      "Nu se poate preciza, aceasta depinzând de sursa de încărcare"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 44,
+    "text": "Diferenţa de potenţial la bornele a n baterii de condensatoare montate în serie este egală cu:",
+    "options": [
+      "Suma diferenţelor de potenţial la bornele fiecărui condensator",
+      "Diferenţa de potenţial la bornele fiecărui condensator în parte",
+      "Diferenţa de potenţial a unui condensator împărţită la n",
+      "Diferenţa de potenţial a unui condensator înmulţită cu (n-1)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 45,
+    "text": "Valoarea conductivităţii electrice este în ordine crescătoare la următoarele materiale:",
+    "options": [
+      "Aluminiu, argint, cupru",
+      "Argint, cupru, aluminiu",
+      "Aluminiu, cupru, argint",
+      "Cupru, argint, aluminiu"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 46,
+    "text": "Tesla este unitatea de măsură a:",
+    "options": [
+      "Inducţiei magnetice",
+      "Fluxului magnetic",
+      "Intensităţii câmpului magnetic",
+      "Permeabilitaţii magnetice"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 47,
+    "text": "Capacitatea echivalentă a 2 condensatoare, fiecare având capacitatea C, montate în serie este egală cu:",
+    "options": [
+      "2C",
+      "C/2",
+      "C",
+      "C x C"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 48,
+    "text": "Inductanţa proprie a unei bobine prin care trece un curent de intensitate i este raportul între……. şi acest curent:",
+    "options": [
+      "Fluxul propriu al bobinei",
+      "Inducţia magnetică",
+      "Forţa electromotoare",
+      "Intensitatea câmpului magnetic"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 49,
+    "text": "Permeabilitatea este o mărime:",
+    "options": [
+      "Magnetoelectrică",
+      "Electrică",
+      "Electromecanică",
+      "Magnetică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 50,
+    "text": "Un conductor parcurs de curent având sensul spre dreapta în planul tablei se află într-un câmp magnetic orientat în sus. Forţa acţionează:",
+    "options": [
+      "Perpendicular pe planul tablei cu sensul înăuntru",
+      "La un unghi de 45°",
+      "Perpendicular cu sensul în afara tablei",
+      "La 90° față de câmp și curent"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 51,
+    "text": "Forţa electrodinamică între două fire paralele este:",
+    "options": [
+      "Direct proporţională cu distanţa",
+      "Proporţională cu pătratul distanţei",
+      "Invers proporţională cu distanţa",
+      "Invers proporţională cu pătratul distanţei"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 52,
+    "text": "Forţa dintre două conductoare cu curent se numeşte:",
+    "options": [
+      "Electrocinetică",
+      "Electrostatică",
+      "Magnetomotoare",
+      "Electrodinamică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 53,
+    "text": "Legea lui Coulomb exprimă:",
+    "options": [
+      "Diferenţa de potenţial",
+      "Fluxul electric",
+      "Forţa între sarcini electrice",
+      "Lucrul mecanic în câmp"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 54,
+    "text": "Inversa rezistenţei echivalente a n rezistoare în paralel este:",
+    "options": [
+      "Suma rezistenţelor",
+      "Suma inverselor rezistenţelor",
+      "Suma pătratelor rezistenţelor",
+      "Suma pătratelor inverselor"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 55,
+    "text": "Unitatea de măsură a sarcinii electrice este:",
+    "options": [
+      "Volt/metru",
+      "Coulomb",
+      "Farad",
+      "Amper"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 56,
+    "text": "Un corp conductor se încarcă permanent prin:",
+    "options": [
+      "Deplasare în câmp",
+      "Inducţie electrostatică",
+      "Atingere cu alt corp",
+      "Frecare"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 57,
+    "text": "Sarcinile de semn contrar se:",
+    "options": [
+      "Atrag proporţional cu distanţa",
+      "Resping proporţional",
+      "Atrag invers proporţional cu pătratul distanţei",
+      "Resping invers proporţional"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 58,
+    "text": "Energia înmagazinată în câmp electrostatic este:",
+    "options": [
+      "1/2 qV",
+      "qV",
+      "2qV",
+      "qV²"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 59,
+    "text": "Rezistenţa echivalentă a trei rezistoare de 3 ohmi în paralel este:",
+    "options": [
+      "3 ohmi",
+      "1 ohm",
+      "9 ohmi",
+      "27 ohmi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 60,
+    "text": "Electroscopul determină:",
+    "options": [
+      "Potenţialul",
+      "Lucrul mecanic",
+      "Semnul sarcinii",
+      "Mărimea sarcinii"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 61,
+    "text": "Câmpul electrostatic în vid este descris prin:",
+    "options": [
+      "Intensitatea câmpului electric",
+      "Inducţia electrică",
+      "Inducţia magnetică",
+      "Forţa cu care acţionează câmpul"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 62,
+    "text": "Care dintre relaţiile următoare este adevărată:",
+    "options": [
+      "Inducţia electrică = permitivitatea x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / permitivitate",
+      "Inducţia electrică = sarcina x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / sarcina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 63,
+    "text": "Cantitatea de electricitate cu care se încarcă o baterie de n condensatoare montate în serie, fiecare de capacitate C, este:",
+    "options": [
+      "Aceeaşi cu care se încarcă fiecare element component",
+      "Egală cu suma sarcinilor fiecărui condensator în parte",
+      "Egală cu de două ori cantitatea de electricitate cu care se încarcă fiecare condensator",
+      "Nu se poate preciza, aceasta depinzând de sursa de încărcare"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 64,
+    "text": "Diferenţa de potenţial la bornele a n baterii de condensatoare montate în serie este egală cu:",
+    "options": [
+      "Suma diferenţelor de potenţial la bornele fiecărui condensator",
+      "Diferenţa de potenţial la bornele fiecărui condensator în parte",
+      "Diferenţa de potenţial a unui condensator împărţită la n",
+      "Diferenţa de potenţial a unui condensator înmulţită cu (n-1)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 65,
+    "text": "Valoarea conductivităţii electrice este în ordine crescătoare la următoarele materiale:",
+    "options": [
+      "Aluminiu, argint, cupru",
+      "Argint, cupru, aluminiu",
+      "Aluminiu, cupru, argint",
+      "Cupru, argint, aluminiu"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 66,
+    "text": "Tesla este unitatea de măsură a:",
+    "options": [
+      "Inducţiei magnetice",
+      "Fluxului magnetic",
+      "Intensităţii câmpului magnetic",
+      "Permeabilitaţii magnetice"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 67,
+    "text": "Capacitatea echivalentă a 2 condensatoare, fiecare având capacitatea C, montate în serie este egală cu:",
+    "options": [
+      "2C",
+      "C/2",
+      "C",
+      "C x C"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 68,
+    "text": "Inductanţa proprie a unei bobine prin care trece un curent de intensitate i este raportul între……. şi acest curent:",
+    "options": [
+      "Fluxul propriu al bobinei",
+      "Inducţia magnetică",
+      "Forţa electromotoare",
+      "Intensitatea câmpului magnetic"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 69,
+    "text": "Permeabilitatea este o mărime:",
+    "options": [
+      "Magnetoelectrică",
+      "Electrică",
+      "Electromecanică",
+      "Magnetică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 70,
+    "text": "Un conductor parcurs de curent având sensul spre dreapta în planul tablei se află într-un câmp magnetic orientat în sus. Forţa acţionează:",
+    "options": [
+      "Perpendicular pe planul tablei cu sensul înăuntru",
+      "La un unghi de 45°",
+      "Perpendicular cu sensul în afara tablei",
+      "La 90° față de câmp și curent"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 71,
+    "text": "Forţa electrodinamică între două fire paralele este:",
+    "options": [
+      "Direct proporţională cu distanţa",
+      "Proporţională cu pătratul distanţei",
+      "Invers proporţională cu distanţa",
+      "Invers proporţională cu pătratul distanţei"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 72,
+    "text": "Forţa dintre două conductoare cu curent se numeşte:",
+    "options": [
+      "Electrocinetică",
+      "Electrostatică",
+      "Magnetomotoare",
+      "Electrodinamică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 73,
+    "text": "Legea lui Coulomb exprimă:",
+    "options": [
+      "Diferenţa de potenţial",
+      "Fluxul electric",
+      "Forţa între sarcini electrice",
+      "Lucrul mecanic în câmp"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 74,
+    "text": "Inversa rezistenţei echivalente a n rezistoare în paralel este:",
+    "options": [
+      "Suma rezistenţelor",
+      "Suma inverselor rezistenţelor",
+      "Suma pătratelor rezistenţelor",
+      "Suma pătratelor inverselor"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 75,
+    "text": "Unitatea de măsură a sarcinii electrice este:",
+    "options": [
+      "Volt/metru",
+      "Coulomb",
+      "Farad",
+      "Amper"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 76,
+    "text": "Un corp conductor se încarcă permanent prin:",
+    "options": [
+      "Deplasare în câmp",
+      "Inducţie electrostatică",
+      "Atingere cu alt corp",
+      "Frecare"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 77,
+    "text": "Sarcinile de semn contrar se:",
+    "options": [
+      "Atrag proporţional cu distanţa",
+      "Resping proporţional",
+      "Atrag invers proporţional cu pătratul distanţei",
+      "Resping invers proporţional"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 78,
+    "text": "Energia înmagazinată în câmp electrostatic este:",
+    "options": [
+      "1/2 qV",
+      "qV",
+      "2qV",
+      "qV²"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 79,
+    "text": "Rezistenţa echivalentă a trei rezistoare de 3 ohmi în paralel este:",
+    "options": [
+      "3 ohmi",
+      "1 ohm",
+      "9 ohmi",
+      "27 ohmi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 80,
+    "text": "Electroscopul determină:",
+    "options": [
+      "Potenţialul",
+      "Lucrul mecanic",
+      "Semnul sarcinii",
+      "Mărimea sarcinii"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 81,
+    "text": "Câmpul electrostatic în vid este descris prin:",
+    "options": [
+      "Intensitatea câmpului electric",
+      "Inducţia electrică",
+      "Inducţia magnetică",
+      "Forţa cu care acţionează câmpul"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 82,
+    "text": "Care dintre relaţiile următoare este adevărată:",
+    "options": [
+      "Inducţia electrică = permitivitatea x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / permitivitate",
+      "Inducţia electrică = sarcina x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / sarcina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 83,
+    "text": "Cantitatea de electricitate cu care se încarcă o baterie de n condensatoare montate în serie, fiecare de capacitate C, este:",
+    "options": [
+      "Aceeaşi cu care se încarcă fiecare element component",
+      "Egală cu suma sarcinilor fiecărui condensator în parte",
+      "Egală cu de două ori cantitatea de electricitate cu care se încarcă fiecare condensator",
+      "Nu se poate preciza, aceasta depinzând de sursa de încărcare"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 84,
+    "text": "Diferenţa de potenţial la bornele a n baterii de condensatoare montate în serie este egală cu:",
+    "options": [
+      "Suma diferenţelor de potenţial la bornele fiecărui condensator",
+      "Diferenţa de potenţial la bornele fiecărui condensator în parte",
+      "Diferenţa de potenţial a unui condensator împărţită la n",
+      "Diferenţa de potenţial a unui condensator înmulţită cu (n-1)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 85,
+    "text": "Valoarea conductivităţii electrice este în ordine crescătoare la următoarele materiale:",
+    "options": [
+      "Aluminiu, argint, cupru",
+      "Argint, cupru, aluminiu",
+      "Aluminiu, cupru, argint",
+      "Cupru, argint, aluminiu"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 86,
+    "text": "Tesla este unitatea de măsură a:",
+    "options": [
+      "Inducţiei magnetice",
+      "Fluxului magnetic",
+      "Intensităţii câmpului magnetic",
+      "Permeabilitaţii magnetice"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 87,
+    "text": "Capacitatea echivalentă a 2 condensatoare, fiecare având capacitatea C, montate în serie este egală cu:",
+    "options": [
+      "2C",
+      "C/2",
+      "C",
+      "C x C"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 88,
+    "text": "Inductanţa proprie a unei bobine prin care trece un curent de intensitate i este raportul între……. şi acest curent:",
+    "options": [
+      "Fluxul propriu al bobinei",
+      "Inducţia magnetică",
+      "Forţa electromotoare",
+      "Intensitatea câmpului magnetic"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 89,
+    "text": "Permeabilitatea este o mărime:",
+    "options": [
+      "Magnetoelectrică",
+      "Electrică",
+      "Electromecanică",
+      "Magnetică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 90,
+    "text": "Un conductor parcurs de curent având sensul spre dreapta în planul tablei se află într-un câmp magnetic orientat în sus. Forţa acţionează:",
+    "options": [
+      "Perpendicular pe planul tablei cu sensul înăuntru",
+      "La un unghi de 45°",
+      "Perpendicular cu sensul în afara tablei",
+      "La 90° față de câmp și curent"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 91,
+    "text": "Forţa electrodinamică între două fire paralele este:",
+    "options": [
+      "Direct proporţională cu distanţa",
+      "Proporţională cu pătratul distanţei",
+      "Invers proporţională cu distanţa",
+      "Invers proporţională cu pătratul distanţei"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 92,
+    "text": "Forţa dintre două conductoare cu curent se numeşte:",
+    "options": [
+      "Electrocinetică",
+      "Electrostatică",
+      "Magnetomotoare",
+      "Electrodinamică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 93,
+    "text": "Legea lui Coulomb exprimă:",
+    "options": [
+      "Diferenţa de potenţial",
+      "Fluxul electric",
+      "Forţa între sarcini electrice",
+      "Lucrul mecanic în câmp"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 94,
+    "text": "Inversa rezistenţei echivalente a n rezistoare în paralel este:",
+    "options": [
+      "Suma rezistenţelor",
+      "Suma inverselor rezistenţelor",
+      "Suma pătratelor rezistenţelor",
+      "Suma pătratelor inverselor"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 95,
+    "text": "Unitatea de măsură a sarcinii electrice este:",
+    "options": [
+      "Volt/metru",
+      "Coulomb",
+      "Farad",
+      "Amper"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 96,
+    "text": "Un corp conductor se încarcă permanent prin:",
+    "options": [
+      "Deplasare în câmp",
+      "Inducţie electrostatică",
+      "Atingere cu alt corp",
+      "Frecare"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 97,
+    "text": "Sarcinile de semn contrar se:",
+    "options": [
+      "Atrag proporţional cu distanţa",
+      "Resping proporţional",
+      "Atrag invers proporţional cu pătratul distanţei",
+      "Resping invers proporţional"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 98,
+    "text": "Energia înmagazinată în câmp electrostatic este:",
+    "options": [
+      "1/2 qV",
+      "qV",
+      "2qV",
+      "qV²"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 99,
+    "text": "Rezistenţa echivalentă a trei rezistoare de 3 ohmi în paralel este:",
+    "options": [
+      "3 ohmi",
+      "1 ohm",
+      "9 ohmi",
+      "27 ohmi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 100,
+    "text": "Electroscopul determină:",
+    "options": [
+      "Potenţialul",
+      "Lucrul mecanic",
+      "Semnul sarcinii",
+      "Mărimea sarcinii"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 101,
+    "text": "Câmpul electrostatic în vid este descris prin:",
+    "options": [
+      "Intensitatea câmpului electric",
+      "Inducţia electrică",
+      "Inducţia magnetică",
+      "Forţa cu care acţionează câmpul"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 102,
+    "text": "Care dintre relaţiile următoare este adevărată:",
+    "options": [
+      "Inducţia electrică = permitivitatea x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / permitivitate",
+      "Inducţia electrică = sarcina x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / sarcina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 103,
+    "text": "Cantitatea de electricitate cu care se încarcă o baterie de n condensatoare montate în serie, fiecare de capacitate C, este:",
+    "options": [
+      "Aceeaşi cu care se încarcă fiecare element component",
+      "Egală cu suma sarcinilor fiecărui condensator în parte",
+      "Egală cu de două ori cantitatea de electricitate cu care se încarcă fiecare condensator",
+      "Nu se poate preciza, aceasta depinzând de sursa de încărcare"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 104,
+    "text": "Diferenţa de potenţial la bornele a n baterii de condensatoare montate în serie este egală cu:",
+    "options": [
+      "Suma diferenţelor de potenţial la bornele fiecărui condensator",
+      "Diferenţa de potenţial la bornele fiecărui condensator în parte",
+      "Diferenţa de potenţial a unui condensator împărţită la n",
+      "Diferenţa de potenţial a unui condensator înmulţită cu (n-1)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 105,
+    "text": "Valoarea conductivităţii electrice este în ordine crescătoare la următoarele materiale:",
+    "options": [
+      "Aluminiu, argint, cupru",
+      "Argint, cupru, aluminiu",
+      "Aluminiu, cupru, argint",
+      "Cupru, argint, aluminiu"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 106,
+    "text": "Tesla este unitatea de măsură a:",
+    "options": [
+      "Inducţiei magnetice",
+      "Fluxului magnetic",
+      "Intensităţii câmpului magnetic",
+      "Permeabilitaţii magnetice"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 107,
+    "text": "Capacitatea echivalentă a 2 condensatoare, fiecare având capacitatea C, montate în serie este egală cu:",
+    "options": [
+      "2C",
+      "C/2",
+      "C",
+      "C x C"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 108,
+    "text": "Inductanţa proprie a unei bobine prin care trece un curent de intensitate i este raportul între……. şi acest curent:",
+    "options": [
+      "Fluxul propriu al bobinei",
+      "Inducţia magnetică",
+      "Forţa electromotoare",
+      "Intensitatea câmpului magnetic"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 109,
+    "text": "Permeabilitatea este o mărime:",
+    "options": [
+      "Magnetoelectrică",
+      "Electrică",
+      "Electromecanică",
+      "Magnetică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 110,
+    "text": "Un conductor parcurs de curent având sensul spre dreapta în planul tablei se află într-un câmp magnetic orientat în sus. Forţa acţionează:",
+    "options": [
+      "Perpendicular pe planul tablei cu sensul înăuntru",
+      "La un unghi de 45°",
+      "Perpendicular cu sensul în afara tablei",
+      "La 90° față de câmp și curent"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 111,
+    "text": "Forţa electrodinamică între două fire paralele este:",
+    "options": [
+      "Direct proporţională cu distanţa",
+      "Proporţională cu pătratul distanţei",
+      "Invers proporţională cu distanţa",
+      "Invers proporţională cu pătratul distanţei"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 112,
+    "text": "Forţa dintre două conductoare cu curent se numeşte:",
+    "options": [
+      "Electrocinetică",
+      "Electrostatică",
+      "Magnetomotoare",
+      "Electrodinamică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 113,
+    "text": "Legea lui Coulomb exprimă:",
+    "options": [
+      "Diferenţa de potenţial",
+      "Fluxul electric",
+      "Forţa între sarcini electrice",
+      "Lucrul mecanic în câmp"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 114,
+    "text": "Inversa rezistenţei echivalente a n rezistoare în paralel este:",
+    "options": [
+      "Suma rezistenţelor",
+      "Suma inverselor rezistenţelor",
+      "Suma pătratelor rezistenţelor",
+      "Suma pătratelor inverselor"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 115,
+    "text": "Unitatea de măsură a sarcinii electrice este:",
+    "options": [
+      "Volt/metru",
+      "Coulomb",
+      "Farad",
+      "Amper"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 116,
+    "text": "Un corp conductor se încarcă permanent prin:",
+    "options": [
+      "Deplasare în câmp",
+      "Inducţie electrostatică",
+      "Atingere cu alt corp",
+      "Frecare"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 117,
+    "text": "Sarcinile de semn contrar se:",
+    "options": [
+      "Atrag proporţional cu distanţa",
+      "Resping proporţional",
+      "Atrag invers proporţional cu pătratul distanţei",
+      "Resping invers proporţional"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 118,
+    "text": "Energia înmagazinată în câmp electrostatic este:",
+    "options": [
+      "1/2 qV",
+      "qV",
+      "2qV",
+      "qV²"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 119,
+    "text": "Rezistenţa echivalentă a trei rezistoare de 3 ohmi în paralel este:",
+    "options": [
+      "3 ohmi",
+      "1 ohm",
+      "9 ohmi",
+      "27 ohmi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 120,
+    "text": "Electroscopul determină:",
+    "options": [
+      "Potenţialul",
+      "Lucrul mecanic",
+      "Semnul sarcinii",
+      "Mărimea sarcinii"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 121,
+    "text": "Câmpul electrostatic în vid este descris prin:",
+    "options": [
+      "Intensitatea câmpului electric",
+      "Inducţia electrică",
+      "Inducţia magnetică",
+      "Forţa cu care acţionează câmpul"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 122,
+    "text": "Care dintre relaţiile următoare este adevărată:",
+    "options": [
+      "Inducţia electrică = permitivitatea x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / permitivitate",
+      "Inducţia electrică = sarcina x intensitatea câmpului electric",
+      "Inducţia electrică = intensitatea câmpului electric / sarcina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 123,
+    "text": "Cantitatea de electricitate cu care se încarcă o baterie de n condensatoare montate în serie, fiecare de capacitate C, este:",
+    "options": [
+      "Aceeaşi cu care se încarcă fiecare element component",
+      "Egală cu suma sarcinilor fiecărui condensator în parte",
+      "Egală cu de două ori cantitatea de electricitate cu care se încarcă fiecare condensator",
+      "Nu se poate preciza, aceasta depinzând de sursa de încărcare"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 124,
+    "text": "Diferenţa de potenţial la bornele a n baterii de condensatoare montate în serie este egală cu:",
+    "options": [
+      "Suma diferenţelor de potenţial la bornele fiecărui condensator",
+      "Diferenţa de potenţial la bornele fiecărui condensator în parte",
+      "Diferenţa de potenţial a unui condensator împărţită la n",
+      "Diferenţa de potenţial a unui condensator înmulţită cu (n-1)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 125,
+    "text": "Valoarea conductivităţii electrice este în ordine crescătoare la următoarele materiale:",
+    "options": [
+      "Aluminiu, argint, cupru",
+      "Argint, cupru, aluminiu",
+      "Aluminiu, cupru, argint",
+      "Cupru, argint, aluminiu"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 126,
+    "text": "Tesla este unitatea de măsură a:",
+    "options": [
+      "Inducţiei magnetice",
+      "Fluxului magnetic",
+      "Intensităţii câmpului magnetic",
+      "Permeabilitaţii magnetice"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 127,
+    "text": "Capacitatea echivalentă a 2 condensatoare, fiecare având capacitatea C, montate în serie este egală cu:",
+    "options": [
+      "2C",
+      "C/2",
+      "C",
+      "C x C"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 128,
+    "text": "Inductanţa proprie a unei bobine prin care trece un curent de intensitate i este raportul între……. şi acest curent:",
+    "options": [
+      "Fluxul propriu al bobinei",
+      "Inducţia magnetică",
+      "Forţa electromotoare",
+      "Intensitatea câmpului magnetic"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 129,
+    "text": "Permeabilitatea este o mărime:",
+    "options": [
+      "Magnetoelectrică",
+      "Electrică",
+      "Electromecanică",
+      "Magnetică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 130,
+    "text": "Un conductor parcurs de curent având sensul spre dreapta în planul tablei se află într-un câmp magnetic orientat în sus. Forţa acţionează:",
+    "options": [
+      "Perpendicular pe planul tablei cu sensul înăuntru",
+      "La un unghi de 45°",
+      "Perpendicular cu sensul în afara tablei",
+      "La 90° față de câmp și curent"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 131,
+    "text": "Forţa electrodinamică între două fire paralele este:",
+    "options": [
+      "Direct proporţională cu distanţa",
+      "Proporţională cu pătratul distanţei",
+      "Invers proporţională cu distanţa",
+      "Invers proporţională cu pătratul distanţei"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 132,
+    "text": "Forţa dintre două conductoare cu curent se numeşte:",
+    "options": [
+      "Electrocinetică",
+      "Electrostatică",
+      "Magnetomotoare",
+      "Electrodinamică"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 133,
+    "text": "Legea lui Coulomb exprimă:",
+    "options": [
+      "Diferenţa de potenţial",
+      "Fluxul electric",
+      "Forţa între sarcini electrice",
+      "Lucrul mecanic în câmp"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 134,
+    "text": "Inversa rezistenţei echivalente a n rezistoare în paralel este:",
+    "options": [
+      "Suma rezistenţelor",
+      "Suma inverselor rezistenţelor",
+      "Suma pătratelor rezistenţelor",
+      "Suma pătratelor inverselor"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 135,
+    "text": "Unitatea de măsură a sarcinii electrice este:",
+    "options": [
+      "Volt/metru",
+      "Coulomb",
+      "Farad",
+      "Amper"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 136,
+    "text": "Un corp conductor se încarcă permanent prin:",
+    "options": [
+      "Deplasare în câmp",
+      "Inducţie electrostatică",
+      "Atingere cu alt corp",
+      "Frecare"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 137,
+    "text": "Sarcinile de semn contrar se:",
+    "options": [
+      "Atrag proporţional cu distanţa",
+      "Resping proporţional",
+      "Atrag invers proporţional cu pătratul distanţei",
+      "Resping invers proporţional"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 138,
+    "text": "Energia înmagazinată în câmp electrostatic este:",
+    "options": [
+      "1/2 qV",
+      "qV",
+      "2qV",
+      "qV²"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 139,
+    "text": "Rezistenţa echivalentă a trei rezistoare de 3 ohmi în paralel este:",
+    "options": [
+      "3 ohmi",
+      "1 ohm",
+      "9 ohmi",
+      "27 ohmi"
+    ],
+    "correct": 1
+  }
+]
